@@ -1,7 +1,7 @@
 # PhD Research: AI for Solar Mini‑Grid Design in Rural Nigeria
 
 ## 👋 About Me
-I'm **Hadiza Mijinyawa**, a PTDF scholar and PhD researcher at the University of Portsmouth (starting April 2026).
+I'm **Hadiza Musa Mijinyawa**, a PTDF scholar and PhD researcher at the University of Portsmouth.
 
 ## 🔬 Research Overview
 This repository documents my PhD journey: building a **physics‑informed generative AI framework** that creates hyper‑local energy demand profiles for rural Nigerian villages. The goal is to design solar mini‑grids that actually work for the communities they serve.
