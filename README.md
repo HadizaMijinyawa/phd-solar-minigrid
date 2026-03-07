@@ -9,8 +9,8 @@ This repository documents my PhD journey: building a **physics‑informed genera
 **The core innovation:** Translating publicly available satellite, climate, and census data into hyper‑local energy profiles without requiring any historical consumption data, using a physics‑informed generative model validated against Nigerian economic reality.
 
 ## 📂 Repository Structure
-- `module-0/` – Foundational Python scripts (learning basics).
-- `src/` – Core, reusable source code for the PhD.
+- `modules/` – Static snapshots of completed modules (e.g., Module 0, Module 1).
+- `src/` – Core, reusable source code (actively developed).
 - `notebooks/` – Jupyter notebooks for exploration and experiments.
 - `research-log.md` – Daily diary of progress, questions, and ideas.
 
