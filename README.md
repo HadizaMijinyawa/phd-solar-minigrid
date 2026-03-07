@@ -16,7 +16,8 @@ This repository documents my PhD journey: building a **physics‑informed genera
 
 ## 🚀 Current Status
 ✅ Module 0 completed (Python basics, GitHub setup).  
-⏳ Next: Module 1 – NASA climate data pipeline.
+✅ Module 1 completed (NASA climate data pipeline – reusable fetch, clean, plot, export).  
+⏳ Next: Module 2 – Satellite imagery pipeline.
 
 ## 📫 Contact
 - GitHub: [@HadizaMijinyawa](https://github.com/HadizaMijinyawa)
